@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactInClass/static/css/main.ccf8221e.chunk.css",
-    "main.js": "/reactInClass/static/js/main.447103f5.chunk.js",
-    "main.js.map": "/reactInClass/static/js/main.447103f5.chunk.js.map",
+    "main.css": "/reactInClass/static/css/main.812d0f57.chunk.css",
+    "main.js": "/reactInClass/static/js/main.0ca38697.chunk.js",
+    "main.js.map": "/reactInClass/static/js/main.0ca38697.chunk.js.map",
     "runtime-main.js": "/reactInClass/static/js/runtime-main.749d2efa.js",
     "runtime-main.js.map": "/reactInClass/static/js/runtime-main.749d2efa.js.map",
     "static/js/2.a3f37fd7.chunk.js": "/reactInClass/static/js/2.a3f37fd7.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.6bf79459.chunk.js": "/reactInClass/static/js/3.6bf79459.chunk.js",
     "static/js/3.6bf79459.chunk.js.map": "/reactInClass/static/js/3.6bf79459.chunk.js.map",
     "index.html": "/reactInClass/index.html",
-    "static/css/main.ccf8221e.chunk.css.map": "/reactInClass/static/css/main.ccf8221e.chunk.css.map",
+    "static/css/main.812d0f57.chunk.css.map": "/reactInClass/static/css/main.812d0f57.chunk.css.map",
     "static/js/2.a3f37fd7.chunk.js.LICENSE.txt": "/reactInClass/static/js/2.a3f37fd7.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/reactInClass/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.749d2efa.js",
     "static/js/2.a3f37fd7.chunk.js",
-    "static/css/main.ccf8221e.chunk.css",
-    "static/js/main.447103f5.chunk.js"
+    "static/css/main.812d0f57.chunk.css",
+    "static/js/main.0ca38697.chunk.js"
   ]
 }
